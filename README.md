@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arnoldmitrica
+- 👀 I’m interested in iOS, Swift, Web development
+- 🌱 I’m currently learning..
+- 💞️ I’m looking to collaborate on projects that implies iOS development.
+- 📫 You can reach me https://www.linkedin.com/in/arnold-mitric%C4%83-42aabb168/
