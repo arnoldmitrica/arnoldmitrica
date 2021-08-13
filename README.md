@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arnoldmitrica
-- 👀 I’m interested in iOS, Swift, Web development
+- 👀 I’m interested in Flutter, Dart, iOS.
 - 🌱 I’m continuously learning..
-- 💞️ I’m looking to collaborate on projects that implies iOS development.
+- 💞️ Currently I’m looking to collaborate on projects that implies Flutter development.
 - 📫 You can reach me https://www.linkedin.com/in/arnold-mitric%C4%83-42aabb168/
